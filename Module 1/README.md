@@ -20,12 +20,12 @@
 
 [Pivot table in _Excel_](https://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
 
-### Dashboard based on Sample - Superstore data
+### Dashboard based on 'Sample - Superstore' data
 
 ![Dashboard](https://github.com/Vainane/DE-101/blob/main/Module%201/Dashboard.png)
 
-## Links 
+## Links:
 
-[Full describtion of the first module](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/readme.md)
+Full describtion of the [`first module`](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/readme.md)
 
-[_Data Learn_](https://github.com/Data-Learn) community.
+[`Data Learn`](https://github.com/Data-Learn) community.
