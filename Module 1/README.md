@@ -16,7 +16,7 @@
 
 ![Architecture](https://github.com/Vainane/DE-101/blob/main/Module%201/Layers%20-%20Structure.png)
   
-## Data analytics in _Excel_
+## Data analytics in _Excel_.
 
 [Pivot table](https://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx) in _Excel_
 
@@ -25,6 +25,6 @@
 ![Dashboard](https://github.com/Vainane/DE-101/blob/main/Module%201/Dashboard.png)
 
 
-[First module](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/readme.md) description
+[First module](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/readme.md) description.
 
 [Data Learn](https://github.com/Data-Learn) community.
