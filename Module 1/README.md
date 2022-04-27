@@ -12,7 +12,7 @@
 
 ###  Upper-level architecture of the analytical solution
 
-![Architecture](https://github.com/Vainane/DE-101/blob/main/Module%201/Architecture%20of%20the%20analytical%20solution.png)
+![Architecture]()
   
 ## Data analytics in _Excel_
 
@@ -26,4 +26,4 @@
 
 [Full describtion of the first module](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/readme.md)
 
-[Data Learn community](https://github.com/Data-Learn)
+[_Data Learn_ community](https://github.com/Data-Learn)
