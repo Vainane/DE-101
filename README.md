@@ -10,3 +10,6 @@ Opensourse course made by [Data - Learn](https://datalearn.ru/) team. Also check
 
 - Building an Excel Dashboard 
 
+## [Module 2](https://github.com/Vainane/DE-101/tree/main/Module%202) - SQL/noSQL databases.
+
+
