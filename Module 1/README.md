@@ -8,7 +8,9 @@
 
 2. `Storage Layer` - data storage layer for analytics (_DWH_, _Data Lake_, _Data Platform_);
 
-3. `Business Layer` - data access layer for business users via BI tools like (_Tableau_, _Power BI_, _SAP BO_, _Excel_, _QlikView_) or _SQL_. 
+3. `Business Layer` - data access layer for business users via BI tools like (_Tableau_, _Power BI_, _SAP BO_, _Excel_, _QlikView_) or _SQL_;
+
+4. `Processing/Compute Layer` - data transformation layer.
 
 ###  Upper-level architecture of the analytical solution
 
