@@ -16,16 +16,14 @@
   
 ## Data analytics in _Excel_
 
-[Pivot table in _Excel_]()
+[Pivot table in _Excel_](ttps://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
 
 ### Dashboard based on Sample - Superstore data
 
 ![Dashboard](https://github.com/Vainane/DE-101/blob/main/Module%201/Dashboard.png)
 
 ## Links 
+
 [Full describtion of the first module](https://github.com/Data-Learn/data-engineering/blob/master/DE-101%20Modules/Module01/DE%20-%20101%20Lab%201.1/readme.md)
-
-
-[Initial data for dashboard](https://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
 
 [Data Learn community](https://github.com/Data-Learn)
