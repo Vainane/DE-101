@@ -16,7 +16,7 @@
   
 ## Data analytics in _Excel_
 
-[Pivot table in _Excel_](ttps://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
+[Pivot table in _Excel_](https://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx)
 
 ### Dashboard based on Sample - Superstore data
 
