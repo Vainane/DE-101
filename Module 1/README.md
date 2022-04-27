@@ -12,7 +12,7 @@
 
 ###  Upper-level architecture of the analytical solution
 
-![Architecture]()
+![Architecture](https://github.com/Vainane/DE-101/blob/main/Module%201/Layers%20-%20Structure.drawio)
   
 ## Data analytics in _Excel_
 
