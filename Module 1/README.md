@@ -16,9 +16,9 @@
 
 ![Architecture](https://github.com/Vainane/DE-101/blob/main/Module%201/Layers%20-%20Structure.png)
   
-## Data analytics in _Excel_ .
+## Data analytics in _Excel_
 
-[Pivot table](https://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx) in _Excel_
+[Pivot table](https://github.com/Vainane/DE-101/blob/main/Module%201/Sample%20-%20Superstore%20-%20Dashboard.xlsx) in _Excel_.
 
 ### Dashboard based on "Sample - Superstore" data
 
