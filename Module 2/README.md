@@ -33,9 +33,10 @@ To start:
 ```
 sudo systemctl start postgresql
 ```
+So it works, but on my machine starting only _PGAdmin3_ and I decided to to use _MySQL Server_ ;0
 
 ### 1.2 _SQL_ client and base queries
-In _PGadmin 4_ i will create 3 tables with "Sample - Superstore" data with following queries:
+In _MySQL Workbench_ i will create 3 tables with "Sample - Superstore" data with following queries:
 
 - [Orders](https://github.com/Vainane/DE-101/blob/main/Module%202/orders.sql)
 
