@@ -1,6 +1,8 @@
 # Module 2
 
-## SQL databases and data visualisasion
+SQL databases and data visualisasion
+
+## SQL databases
 
 ### 2.2 Getting started with PostgreSQL on Linux(Ubuntu)
 
@@ -31,3 +33,9 @@ To start:
 ```
 sudo systemctl start postgresql
 ```
+
+### 2.3 SQL client and base queries
+In PGadmin 4 i will create 3 tables with "Sample - Superstore" data with following queries:
+
+
+
