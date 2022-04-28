@@ -49,19 +49,19 @@ Let's answer some quetions from [Module 1](https://github.com/Data-Learn/data-en
 
 1. Overview
 
-- Total Sales;
+- Total Sales
 
-- Total Profit;
+- Total Profit
 
-- Profit per Order.
+- Profit per Order
 
 2. Product Dashboard
 
-- Sales by Product Category over time.
+- Sales by Product Category over time
 
 3.
 
-- Sales and Profit by Customer;
+- Sales and Profit by Customer
 
-- Sales per region.
+- Sales per region
 
