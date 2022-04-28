@@ -6,21 +6,21 @@
 
 ### Installation
 Open command line   
-Update local package
+Update local package:
 ```
 sudo apt-get update
 ```
-Install app 
+Install app:
 ```
 sudo apt-get install postgresql-12
 ```
 
 ### Launch
-Look at PosgreSQL status
+Look at PosgreSQL status:
 ```
 sudo systemctl status postgresql
 ```
-In line `Active:` shoud be `active (exited)
+In line `Active:` shoud be: `active (exited)
 `   
 
 To stop:
