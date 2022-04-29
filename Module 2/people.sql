@@ -24,7 +24,7 @@ INSERT INTO
    people(Person,Region) 
       VALUES 
          ('Cassandra Brandow','South');
-
+-- Vainane
 SELECT 
    * 
 FROM 
