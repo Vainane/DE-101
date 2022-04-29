@@ -3,8 +3,7 @@ DROP TABLE IF EXISTS
 CREATE TABLE 
    people(
    Person VARCHAR(17) 
-      NOT NULL 
-         PRIMARY KEY,
+      NOT NULL,
    Region VARCHAR(7) 
       NOT NULL
    );
