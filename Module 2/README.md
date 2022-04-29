@@ -50,19 +50,19 @@ Let's answer some quetions from [Module 1](https://github.com/Data-Learn/data-en
 
 1. Overview
 
-- Total Sales
+- [Total Sales](https://github.com/Vainane/DE-101/blob/main/Module%202/queries.sql)
 
-- Total Profit
+- [Total Profit](https://github.com/Vainane/DE-101/blob/main/Module%202/queries.sql)
 
-- Profit per Order
+- [Profit per Order](https://github.com/Vainane/DE-101/blob/main/Module%202/queries.sql)
 
 2. Product Dashboard
 
-- Sales by Product Category over time
+- [Sales by Product Category over time](https://github.com/Vainane/DE-101/blob/main/Module%202/queries.sql)
 
 3.
 
-- Sales and Profit by Customer
+- [Sales and Profit by Customer](https://github.com/Vainane/DE-101/blob/main/Module%202/queries.sql)
 
-- Sales per region
+- [Sales per region](https://github.com/Vainane/DE-101/blob/main/Module%202/queries.sql)
 
