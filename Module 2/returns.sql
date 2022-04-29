@@ -1,6 +1,8 @@
-DROP TABLE IF EXISTS returns;
-CREATE TABLE returns(
-   Person   VARCHAR(7) NOT NULL
+DROP TABLE IF EXISTS 
+   returns;
+CREATE TABLE 
+   returns(
+   Person   VARCHAR(7) NOT NULL PRIMARY KEY
   ,Region   VARCHAR(17) NOT NULL
 );
 INSERT INTO returns(Person,Region) VALUES ('Yes','CA-2016-100762');
@@ -803,4 +805,5 @@ INSERT INTO returns(Person,Region) VALUES ('Yes','US-2019-147998');
 INSERT INTO returns(Person,Region) VALUES ('Yes','US-2019-151127');
 INSERT INTO returns(Person,Region) VALUES ('Yes','US-2019-155999');
 INSERT INTO returns(Person,Region) VALUES ('Yes','US-2019-155999');
+--Vainane
 SELECT * FROM returns;
