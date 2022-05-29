@@ -26,6 +26,9 @@ sudo systemctl status postgresql
 ```
 In line `Active:` shoud be: `active (exited)
 `   
+### DBMS
+I am using _PGadmin 4_ web version as in [SQL-101](https://www.youtube.com/watch?v=jP2dsNqXeYU&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep&index=3) course.
+[Downlaod guidline](https://www.pgadmin.org/download/pgadmin-4-apt/).
 
 ### 1.2 _SQL_ client and base queries
 
