@@ -6,7 +6,7 @@ _SQL_ databases and data visualisasion
 
 ### 1.1 Getting started with _PostgreSQL_ on _Linux(Ubuntu20.04)_
 
-### Installation
+#### Installation
 
 Open Terminal
 
@@ -19,14 +19,16 @@ Install app:
 apt install postgresql postgresql-contrib
 ```
 
-### Launch
+#### Launch
+
 Look at _PosgreSQL_ status:
 ```
 sudo systemctl status postgresql
 ```
 In line `Active:` shoud be: `active (exited)
 `   
-### DBMS
+#### DBMS
+
 I am using _PGadmin 4_ web version as in [SQL-101](https://www.youtube.com/watch?v=jP2dsNqXeYU&list=PLg5SS_4L6LYuE4z-3BgLYGkZrs-cF4Tep&index=3) course.
 [Downlaod guidline](https://www.pgadmin.org/download/pgadmin-4-apt/).
 
