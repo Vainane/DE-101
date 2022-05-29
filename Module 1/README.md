@@ -1,6 +1,6 @@
 # Module 1
 
-## The role of analytics in an organization
+The role of analytics in an organization
 
 ### Upper-level analytical solution architecture:
 
