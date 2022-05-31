@@ -38,3 +38,9 @@ Opensourse course made by [Data - Learn](https://datalearn.ru/) team. Also check
 -
 -
 -
+
+## [Module 7]() - Apache Spark
+
+-
+-
+-
