@@ -53,14 +53,14 @@ Let's answer some quetions from [Module 1](https://github.com/Data-Learn/data-en
 
 Using _SQLdbm_ i going to create 3 sort of data models:
 
-### Conceptual model
+#### Conceptual model
 
 ![Conceptual.png](https://github.com/Vainane/DE-101/blob/main/Module%202/conceptual.png)
 
-### Logical model
+#### Logical model
 
 ![Logical.png](https://github.com/Vainane/DE-101/blob/main/Module%202/logical.png)
 
-### Physical model
+#### Physical model
 
 ![Physical.png](https://github.com/Vainane/DE-101/blob/main/Module%202/physical.png)
