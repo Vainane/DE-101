@@ -37,9 +37,7 @@ I am using _PGadmin 4_ web version as in [SQL-101](https://www.youtube.com/watch
 In _PGadmin 4_ i will create 3 tables from "Sample - Superstore" data with following queries:
 
 - [Orders](https://github.com/Vainane/DE-101/blob/main/Module%202/orders.sql)
-
 - [People](https://github.com/Vainane/DE-101/blob/main/Module%202/people.sql)
-- 
 - [Returns](https://github.com/Vainane/DE-101/blob/main/Module%202/returns.sql)
 
 Now we have some sort of database. Shouldn't we extract some valuable information? ;)
