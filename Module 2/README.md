@@ -11,10 +11,13 @@ _SQL_ databases and data visualisasion
 Open Terminal
 
 Update local package:
+
 ```
 sudo apt-get update
 ```
+
 Install app:
+
 ```
 apt install postgresql postgresql-contrib
 ```
@@ -37,7 +40,9 @@ I am using _PGadmin 4_ web version as in [SQL-101](https://www.youtube.com/watch
 In _PGadmin 4_ i will create 3 tables from "Sample - Superstore" data with following queries:
 
 - [Orders](https://github.com/Vainane/DE-101/blob/main/Module%202/orders.sql)
+
 - [People](https://github.com/Vainane/DE-101/blob/main/Module%202/people.sql)
+
 - [Returns](https://github.com/Vainane/DE-101/blob/main/Module%202/returns.sql)
 
 Now we have some sort of database. Shouldn't we extract some valuable information? ;)
@@ -46,10 +51,16 @@ Let's answer some quetions from [Module 1](https://github.com/Data-Learn/data-en
 
 ### 1.3 Data models. DDL. INSERT INTO
 
-Using _SQLdbm_ i going to create 3 sort of data model:
+Using _SQLdbm_ i going to create 3 sort of data models:
 
-1. ![Conceptual model](https://github.com/Vainane/DE-101/blob/main/Module%202/conceptual.png)
+### Conceptual model
 
-2. ![Logical model](https://github.com/Vainane/DE-101/blob/main/Module%202/logical.png)
+![Conceptual.png](https://github.com/Vainane/DE-101/blob/main/Module%202/conceptual.png)
 
-3. ![Physical model](https://github.com/Vainane/DE-101/blob/main/Module%202/physical.png)
+### Logical model
+
+![Logical.png](https://github.com/Vainane/DE-101/blob/main/Module%202/logical.png)
+
+### Physical model
+
+![Physical.png](https://github.com/Vainane/DE-101/blob/main/Module%202/physical.png)
