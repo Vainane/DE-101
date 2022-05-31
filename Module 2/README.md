@@ -64,3 +64,5 @@ Using _SQLdbm_ i going to create 3 sort of data models:
 #### Physical model
 
 ![Physical.png](https://github.com/Vainane/DE-101/blob/main/Module%202/physical.png)
+
+####[DDL+INSERT INTO](https://github.com/Vainane/DE-101/blob/main/Module%202/ddlinsrtinto.sql).
